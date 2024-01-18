@@ -1,4 +1,3 @@
 # Olá, Mundo!
  Primeiro Repositório
-Fazendo para o professor
-Adicionei essa linha no site, Que incrivel!
+Fazendo para o professor no canal do youtube ensinando sobre **Git e GitHub** aproveitem
